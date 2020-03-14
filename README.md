@@ -69,8 +69,7 @@ It is beneficial to compare the two different locations because they are around 
 ![Fig 11](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/EarthquakeSpectogram.png)
 
 
-
-Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve(refer to the Ocean Noise slides)?
+We can see in the Airgun spectogram that the frequency goes up to about 5000 Hz, whereas the Earthquake only reaches about 100 Hz.  The marine mammal vocalization has several different groupings of frequencies between 1000 and 5000 Hz, which makes sense as different marine mammals have different calls at varying frequencies. This matches what is shown in the Wentz curve, as the seismic activity should be under Hz, bubbles can reach between 1000 and 10,000Hz, and general traffic is between and Hz.
 
 ![Fig 12](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/WentzCurve.PNG)
 
