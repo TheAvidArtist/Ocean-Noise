@@ -36,6 +36,14 @@ What are the main reasons for observing different spectral levels in Oregon shel
 
 ## Part 2: Airgun, Marine Mammals, Earthquake/Volcano Noise
 
+
+![Fig 9](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/AirgunSpectogram.png)
+
+![Fig 10](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/MammalCallSpectogram.png)
+
+![Fig 11](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/EarthquakeSpectogram.png)
+
+
 Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
 Find a short time period that there is an airgun noisein recorded data and plot its spectrogram. 
 Find a short time period that there is an earthquake or a volcano eruptionin recorded data and plot its spectrogram.
