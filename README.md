@@ -53,10 +53,11 @@ From these graphs we can make a pretty good estimate of the highs, lows, and ave
 | Oregon Offshore  | Dead  | ~ 40 PSD | ~ 82 PSD | ~ -3 PSD |
 
 
+We can see that the average PSD for stormy weather is the highest by far, and then the average for rainy, windy, and dead in that order.  Based on this data, it seems as though wind and rain both have an effect on ocean noise with rain having the higher impact.  Stormy weather also hits the highest values most consistently with rain being the next highest, and then windy and dead weather coming in last.  These 'high' values coincide with the average values in the theory of rain having the highest impact on underwater noise and wind also having an impact, though less so.
 
-What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-Which one has the highest impact? Rain or wind?
-What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+It is beneficial to compare the two different locations because they are around the same general coordinates but they have different depths in the ocean (approximately 80m vs 580m deep) and we can see the difference in sound from rain and wind in shallow water vs deep water.
+
+
 
 ## Part 2: Airgun, Marine Mammals, Earthquake/Volcano Noise
 
@@ -68,8 +69,19 @@ What are the main reasons for observing different spectral levels in Oregon shel
 ![Fig 11](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/EarthquakeSpectogram.png)
 
 
-Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
-Find a short time period that there is an airgun noisein recorded data and plot its spectrogram. 
-Find a short time period that there is an earthquake or a volcano eruptionin recorded data and plot its spectrogram.
+
 Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve(refer to the Ocean Noise slides)?
 
+![Fig 12](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/WentzCurve.PNG)
+
+
+## References
+
+
+Ocean Observatories Initiative. 2020. HYDBB. [online] Available at: https://oceanobservatories.org/instrument-class/hydbb/ [Accessed 13 March 2020].
+
+Ocean Observatories Initiative. 2020. HYDBBA. [online] Available at: https://oceanobservatories.org/instrument-series/hydbba/ [Accessed 13 March 2020].
+
+Project 2. 2020. TheAvidArtist. [online] Available at: https://github.com/TheAvidArtist/MeteorologyPackageProject
+
+Earthquake.usgs.gov. 2020. M 3.9 - 43Km W Of Waldport, Oregon. [online] Available at: https://earthquake.usgs.gov/earthquakes/eventpage/us10008hwk/executive [Accessed 13 March 2020].
