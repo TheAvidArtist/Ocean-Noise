@@ -1,5 +1,13 @@
 # Ocean-Noise
 
+## Links
+
+ReadMe file: https://github.com/TheAvidArtist/Ocean-Noise/blob/master/README.md
+
+Code: https://github.com/TheAvidArtist/Ocean-Noise/blob/master/Untitled.ipynb
+
+
+
 ## Introduction
 
 In this project we observe the power spectral density vs frequency of weather in the Pacific Northwest Ocean using data from hydrophones.  From this we should be able to determine the relationship between water, wind, and sound in the ocean. In the second half of the project we observe ocean noise from airguns, marine mammals, and earthquakes, and see if they are consistent with known data.
@@ -73,6 +81,10 @@ We can see in the Airgun spectogram that the frequency goes up to about 5000 Hz,
 
 ![Fig 12](https://github.com/TheAvidArtist/Ocean-Noise/blob/master/WentzCurve.PNG)
 
+
+## Conclusion
+
+It seems as though all the data makes sense and follows what we would expect based upon the Wentz Curve.  From this method of gathering and analyzing data we should be able to come to reasonable conclusions about events that happen in the ocean based on the graphs we get and comparing bandwidths of the sounds we find.
 
 ## References
 
